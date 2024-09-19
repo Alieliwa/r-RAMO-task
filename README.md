@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-09-19 at 15 31 55](https://github.com/user-attachments/assets/5fe2d518-d034-4ba5-93e4-1bb3f05a66cd)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
